@@ -1,0 +1,113 @@
+DATA CODEBOOK - Human Activity Recognition Using Smartphones
+
+==============================================================================================================
+
+tBodyAcc-mean()-X		-		Mean Body Acceleration along x-axis (Time Domain Signal)
+tBodyAcc-mean()-Y		-		Mean Body Acceleration along y-axis (Time Domain Signal)
+tBodyAcc-mean()-Z		-		Mean Body Acceleration along z-axis (Time Domain Signal)
+
+tBodyAcc-std()-X		-		Standard Deviation for Body Acceleration along x-axis (Time Domain Signal)
+tBodyAcc-std()-Y		-		Standard Deviation for Body Acceleration along y-axis (Time Domain Signal)
+tBodyAcc-std()-Z		-		Standard Deviation for Body Acceleration along z-axis (Time Domain Signal)
+
+tGravityAcc-mean()-X	-		Mean Gravity Acceleration along x-axis (Time Domain Signal)
+tGravityAcc-mean()-Y	-		Mean Gravity Acceleration along y-axis (Time Domain Signal)
+tGravityAcc-mean()-Z	-		Mean Gravity Acceleration along z-axis (Time Domain Signal)
+
+tGravityAcc-std()-X		- 		Standard Deviation for Gravity Acceleration along x-axis (Time Domain Signal)
+tGravityAcc-std()-Y		- 		Standard Deviation for Gravity Acceleration along y-axis (Time Domain Signal)
+tGravityAcc-std()-Z		- 		Standard Deviation for Gravity Acceleration along z-axis (Time Domain Signal)
+
+tBodyAccJerk-mean()-X	-		Mean Jerk Acceleration Signal along x-axis (Time Domain Signal)
+tBodyAccJerk-mean()-Y	-		Mean Jerk Acceleration Signal along y-axis (Time Domain Signal)
+tBodyAccJerk-mean()-Z	-		Mean Jerk Acceleration Signal along z-axis (Time Domain Signal)
+
+tBodyAccJerk-std()-X	-		Standard Deviation of Jerk Acceleration Signal along x-axis (Time Domain Signal)
+tBodyAccJerk-std()-Y	-		Standard Deviation of Jerk Acceleration Signal along y-axis (Time Domain Signal)
+tBodyAccJerk-std()-Z	-		Standard Deviation of Jerk Acceleration Signal along z-axis (Time Domain Signal)
+
+tBodyGyro-mean()-X		- 		Mean Gyroscopic Signal along x-axis (Time Domain Signal)
+tBodyGyro-mean()-Y		- 		Mean Gyroscopic Signal along y-axis (Time Domain Signal)
+tBodyGyro-mean()-Z		- 		Mean Gyroscopic Signal along z-axis (Time Domain Signal)
+
+tBodyGyro-std()-X		-		Standard Deviation of Gyroscopic Signal along x-axis (Time Domain Signal)
+tBodyGyro-std()-Y		-		Standard Deviation of Gyroscopic Signal along y-axis (Time Domain Signal)
+tBodyGyro-std()-Z		-		Standard Deviation of Gyroscopic Signal along z-axis (Time Domain Signal)
+
+tBodyGyroJerk-mean()-X	-		Mean of Jerk Gyroscopic Signal along x-axis (Time Domain Signal)
+tBodyGyroJerk-mean()-Y	-		Mean of Jerk Gyroscopic Signal along y-axis (Time Domain Signal)
+tBodyGyroJerk-mean()-Z	-		Mean of Jerk Gyroscopic Signal along z-axis (Time Domain Signal)
+
+tBodyGyroJerk-std()-X	-		Standard Deviation of Jerk Gyroscopic Signal along x-axis (Time Domain Signal)
+tBodyGyroJerk-std()-Y	-		Standard Deviation of Jerk Gyroscopic Signal along y-axis (Time Domain Signal)
+tBodyGyroJerk-std()-Z	-		Standard Deviation of Jerk Gyroscopic Signal along z-axis (Time Domain Signal)
+
+tBodyAccMag-mean()		-		Mean Magnitude of Body Acceleration calculated as the L2 norm of x,y,z Accelerations  (Time Domain)
+tBodyAccMag-std()		-		Standard Deviation of the Magnitude of Body Acceleration calculated as the L2 norm of x,y,z Accelerations  (Time Domain)
+
+tGravityAccMag-mean()	-		Mean Magnitude of Gravity Acceleration (Time Domain Signal)
+tGravityAccMag-std()	-		Standard Deviation of Gravity Acceleration (Time Domain Signal)
+
+tBodyAccJerkMag-mean()	-		Mean Magnitude of Jerk Acceleration Signal (Time Domain Signal)
+tBodyAccJerkMag-std()	-		Standard Deviation of the Magnitude of Jerk Acceleration Signal (Time Domain Signal)
+
+tBodyGyroMag-mean()		-		Mean Magnitude of Gyroscopic Signal (Time Domain)
+tBodyGyroMag-std()		-		Standard Deviation of Magnitude of Gyroscopic Signal (Time Domain)
+
+tBodyGyroJerkMag-mean()	-		Mean Magnitude of Jerk Gyroscopic Signal (Time Domain)
+tBodyGyroJerkMag-std()	-		Standard Deviation of Jerk Gyroscopic Signal (Time Domain)
+
+fBodyAcc-mean()-X		-		Mean Body Acceleration along x-axis (Frequency Domain Signal)
+fBodyAcc-mean()-Y		-		Mean Body Acceleration along y-axis (Frequency Domain Signal)
+fBodyAcc-mean()-Z		-		Mean Body Acceleration along z-axis (Frequency Domain Signal)
+
+fBodyAcc-sfd()-X		-		Standard Deviation for Body Acceleration along x-axis (Frequency Domain Signal)
+fBodyAcc-sfd()-Y		-		Standard Deviation for Body Acceleration along y-axis (Frequency Domain Signal)
+fBodyAcc-sfd()-Z		-		Standard Deviation for Body Acceleration along z-axis (Frequency Domain Signal)
+
+fGravityAcc-mean()-X	-		Mean Gravity Acceleration along x-axis (Frequency Domain Signal)
+fGravityAcc-mean()-Y	-		Mean Gravity Acceleration along y-axis (Frequency Domain Signal)
+fGravityAcc-mean()-Z	-		Mean Gravity Acceleration along z-axis (Frequency Domain Signal)
+
+fGravityAcc-sfd()-X		- 		Standard Deviation for Gravity Acceleration along x-axis (Frequency Domain Signal)
+fGravityAcc-sfd()-Y		- 		Standard Deviation for Gravity Acceleration along y-axis (Frequency Domain Signal)
+fGravityAcc-sfd()-Z		- 		Standard Deviation for Gravity Acceleration along z-axis (Frequency Domain Signal)
+
+fBodyAccJerk-mean()-X	-		Mean Jerk Acceleration Signal along x-axis (Frequency Domain Signal)
+fBodyAccJerk-mean()-Y	-		Mean Jerk Acceleration Signal along y-axis (Frequency Domain Signal)
+fBodyAccJerk-mean()-Z	-		Mean Jerk Acceleration Signal along z-axis (Frequency Domain Signal)
+
+fBodyAccJerk-sfd()-X	-		Standard Deviation of Jerk Acceleration Signal along x-axis (Frequency Domain Signal)
+fBodyAccJerk-sfd()-Y	-		Standard Deviation of Jerk Acceleration Signal along y-axis (Frequency Domain Signal)
+fBodyAccJerk-sfd()-Z	-		Standard Deviation of Jerk Acceleration Signal along z-axis (Frequency Domain Signal)
+
+fBodyGyro-mean()-X		- 		Mean Gyroscopic Signal along x-axis (Frequency Domain Signal)
+fBodyGyro-mean()-Y		- 		Mean Gyroscopic Signal along y-axis (Frequency Domain Signal)
+fBodyGyro-mean()-Z		- 		Mean Gyroscopic Signal along z-axis (Frequency Domain Signal)
+
+fBodyGyro-sfd()-X		-		Standard Deviation of Gyroscopic Signal along x-axis (Frequency Domain Signal)
+fBodyGyro-sfd()-Y		-		Standard Deviation of Gyroscopic Signal along y-axis (Frequency Domain Signal)
+fBodyGyro-sfd()-Z		-		Standard Deviation of Gyroscopic Signal along z-axis (Frequency Domain Signal)
+
+fBodyGyroJerk-mean()-X	-		Mean of Jerk Gyroscopic Signal along x-axis (Frequency Domain Signal)
+fBodyGyroJerk-mean()-Y	-		Mean of Jerk Gyroscopic Signal along y-axis (Frequency Domain Signal)
+fBodyGyroJerk-mean()-Z	-		Mean of Jerk Gyroscopic Signal along z-axis (Frequency Domain Signal)
+
+fBodyGyroJerk-sfd()-X	-		Standard Deviation of Jerk Gyroscopic Signal along x-axis (Frequency Domain Signal)
+fBodyGyroJerk-sfd()-Y	-		Standard Deviation of Jerk Gyroscopic Signal along y-axis (Frequency Domain Signal)
+fBodyGyroJerk-sfd()-Z	-		Standard Deviation of Jerk Gyroscopic Signal along z-axis (Frequency Domain Signal)
+
+fBodyAccMag-mean()		-		Mean Magnitude of Body Acceleration calculated as the L2 norm of x,y,z Accelerations  (Frequency Domain)
+fBodyAccMag-sfd()		-		Standard Deviation of the Magnitude of Body Acceleration calculated as the L2 norm of x,y,z Accelerations  (Frequency Domain)
+
+fGravityAccMag-mean()	-		Mean Magnitude of Gravity Acceleration (Frequency Domain Signal)
+fGravityAccMag-sfd()	-		Standard Deviation of Gravity Acceleration (Frequency Domain Signal)
+
+fBodyAccJerkMag-mean()	-		Mean Magnitude of Jerk Acceleration Signal (Frequency Domain Signal)
+fBodyAccJerkMag-sfd()	-		Standard Deviation of the Magnitude of Jerk Acceleration Signal (Frequency Domain Signal)
+
+fBodyGyroMag-mean()		-		Mean Magnitude of Gyroscopic Signal (Frequency Domain)
+fBodyGyroMag-sfd()		-		Standard Deviation of Magnitude of Gyroscopic Signal (Frequency Domain)
+
+fBodyGyroJerkMag-mean()	-		Mean Magnitude of Jerk Gyroscopic Signal (Frequency Domain)
+fBodyGyroJerkMag-sfd()	-		Standard Deviation of Jerk Gyroscopic Signal (Frequency Domain)
